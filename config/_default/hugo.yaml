@@ -6,7 +6,8 @@
 # Website name
 title: Elwin Huaman
 # Website URL
-baseURL: 'https://elwin.huamanquispe.com/'
+# baseURL: 'https://elwin.huamanquispe.com/'
+baseURL: 'https://elwinhuaman.netlify.app/'
 
 ############################
 ## LANGUAGE
