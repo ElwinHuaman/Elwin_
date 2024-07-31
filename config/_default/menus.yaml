@@ -26,18 +26,18 @@ main:
     url: teaching/
     weight: 40
   - name: About Me
-    url: biography
+    url: biography/
     identifier: biography
     weight: 50
   - name: Education
-    url: biography/education
+    url: biography/education/
     parent: biography
     weight: 51
   - name: Experience
-    url: biography/experience
+    url: biography/experience/
     parent: biography
     weight: 52
   - name: Skills
-    url: biography/skills
+    url: biography/skills/
     parent: biography
     weight: 53
