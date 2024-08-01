@@ -25,3 +25,10 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Biography
+    url: biography/
+    weight: 50
+  - name: Education
+    url: biography/education/
+    parent: Biography
+    weight: 51
