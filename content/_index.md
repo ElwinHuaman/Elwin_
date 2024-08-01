@@ -27,7 +27,7 @@ sections:
           # filename: stacked-peaks.svg
           filename: ElwinHuaman-Alpacas-2024.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
