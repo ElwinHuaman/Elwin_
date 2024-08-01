@@ -146,7 +146,7 @@ work:
     summary: |
       Responsibilities include:
       - Assist with the modelling and deployment of medieval mining text data. 
-      - Support the assessment of data correctness for the [https://miningtext.at/](TMMMT) Project. 
+      - Support the assessment of data correctness for the [TMMMT](https://miningtext.at/) Project. 
       
       The outcome enabled the identiﬁcation of data modelling issues and prevented from representing inconsistent data.
   - position: E-learning Developer
@@ -160,7 +160,7 @@ work:
       - Develop, implement, and localize the _Reading Wikipedia in the Classroom_ program for the Spanish-speaking user group in Peru. 
       - Create and develop an e-learning course using the OpenEdX Learning Management System. 
       
-      The blended program reached 130 teachers, and it was translated to the Quechua language. 
+      The blended program reached 130 teachers, and the program materials were translated to the Quechua language. 
   - position: E-learning Facilitator
     company_name: Wikimedia Foundation, USA (Remote)
     company_url: https://wikimediafoundation.org/
