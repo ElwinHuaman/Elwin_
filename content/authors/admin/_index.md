@@ -149,7 +149,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-- name: Hard Skills
+- name: Coding
     items:
       - name: Python
         description: ''
@@ -163,7 +163,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-- name: Hard Skills
+- name: Databases
     items:
       - name: Python
         description: ''
@@ -177,7 +177,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-- name: Hard Skills
+- name: Software
     items:
       - name: Python
         description: ''
@@ -191,7 +191,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-- name: Hard Skills
+- name: E-Learning
     items:
       - name: Python
         description: ''
