@@ -337,6 +337,30 @@ awards:
     icon: ''
     summary: |
       The Förderkreis 1669 of the University of Innsbruck supports excellent young researchers by funding conference participation.
+  - title: '`FIRST PRIZE` | Smarth Destination Hackathon'
+    url: 'https://www.unwto.org/'
+    certificate_url: 'https://www.youtube.com/watch?v=roUrLgHZtWQ'
+    date: '2018-06-01'
+    awarder: World Tourism Organization (UNWTO) with the Spanish government
+    icon: ''
+    summary: |
+      First prize in the Smarth Destination Hackathon (Hack4SD), I have developed a search engine for sustainable tourism destinations. 
+  - title: '`GRANT` | Peruvian scientists in Europe'
+    url: 'https://www.sinapsis-peru.org/'
+    certificate_url: 'https://www.sinapsis-peru.org/'
+    date: '2017-10-01'
+    awarder: Ministry of Foreign Affairs of Peru, Germany
+    icon: ''
+    summary: |
+      Grant to participate in the meeting of Peruvian scientists in Europe (SINAPSIS) in Berlin, Germany. I presented my contributions related to Linked Open Data  to the Peruvian scientists community.   
+  - title: '`First Prize` | University Contest of Talent and Entrepreneurship'
+    url: 'https://www.uniovi.es/'
+    certificate_url: 'https://www.elcomercio.es/asturias/201706/06/gancho-alpacas-peruanas-20170606000443-v.html'
+    date: '2017-06-01'
+    awarder: University of Oviedo, Spain
+    icon: ''
+    summary: |
+      First prize in the University Contest of Talent and Entrepreneurship (CHAMP-U). The project let Alpaca breeder’s family in Peru offer their houses to visitors.
 ---
 
 ## Biography
