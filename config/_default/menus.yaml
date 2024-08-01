@@ -26,9 +26,9 @@ main:
     url: teaching/
     weight: 40
   - name: Biography
-    pageRef: biography/
+    url: biography/
     weight: 50
   - name: Education
-    pageRef: biography/education/
+    url: biography/education/
     parent: Biography
     weight: 51
