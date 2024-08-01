@@ -122,6 +122,7 @@ education:
       - Quality in organizations and re-engineering
       - Distributed information systems
       - Implementation of information systems
+# Work
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -166,7 +167,7 @@ skills:
       - name: Software
         description: 'Jira, JupyterLab, Wikidata, WordPress'
         percent: 100
-        icon: circle-stack
+        icon: computer
   - name: Soft skills
     items:
       - name: Personal
