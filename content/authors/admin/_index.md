@@ -152,19 +152,19 @@ skills:
   - name: Hard skills
     items:
       - name: Coding
-        description: 'HTML, Latex, blalbalba'
+        description: 'HTML, Java, JavaScript, Python'
         percent: 80
         icon: code-bracket
       - name: E-learning
-        description: ''
+        description: 'OpenEdx, Moodle, Figma, Canva'
         percent: 100
         icon: chart-bar
       - name: Databases
-        description: ''
+        description: 'GraphDB, MySQL, SPARQL, Wikibase'
         percent: 100
         icon: circle-stack
       - name: Software
-        description: ''
+        description: 'Jira, JupyterLab, Wikidata, WordPress'
         percent: 100
         icon: circle-stack
   - name: Soft skills
