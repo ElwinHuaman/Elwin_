@@ -135,6 +135,8 @@ work:
       - Implementing the Quechua Voices project 
       - Monitor the project from its planning to final reporting
       - Develop methods and tools to represent the Puno Quechua language
+
+      As result 1300 lexemes, with their senses, forms, and pronunciation speech where added into Wikidata.
   - position: Data Consultant
     company_name: Digital Science Center (DISC), University of Innsbruck, Austria.
     company_url: 'https://www.uibk.ac.at/de/disc/'
@@ -147,6 +149,18 @@ work:
       - Support the assessment of data correctness for the [https://miningtext.at/](TMMMT) Project. 
       
       The outcome enabled the identiﬁcation of data modelling issues and prevented from representing inconsistent data.
+  - position: E-learning Developer
+    company_name: Wikimedia Foundation
+    company_url: https://wikimediafoundation.org/
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-06-30
+    summary: |
+      Responsibilities include:
+      - Develop, implement, and localize the _Reading Wikipedia in the Classroom_ program for the Spanish-speaking user group in Peru. 
+      - Create and develop an e-learning course using the OpenEdX Learning Management System. 
+      
+      The blended program reached 130 teachers, and it was translated to the Quechua language: Quechua. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
