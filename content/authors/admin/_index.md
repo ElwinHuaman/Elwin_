@@ -60,7 +60,7 @@ interests:
 education:
   - area: PhD in Linguistics and Media Studies (ongoing)
     institution: Innsbruck University, Austria
-    date_start: 2023
+    date_start: 2023-10-23
     date_end: --
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
