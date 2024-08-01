@@ -322,14 +322,21 @@ awards:
     summary: |
       Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021), _Towards Knowledge Graphs Validation through Weighted Knowledge Sources_.
   - title: '`FINALISTS PHASE` | Aporta Challenge 2019, Ideas competition'
-    url: 'https://www.youtube.com/watch?v=6KZ5FkUBQlc'
-    certificate_url: '../../uploads/ElwinHuamanKGSWC2021.JPG'
-    video_url: https://www.youtube.com/watch?v=6KZ5FkUBQlc
+    url: 'https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019'
+    certificate_url: 'https://www.youtube.com/watch?v=6KZ5FkUBQlc'
     date: '2019-12-17'
     awarder: Ministry of Economy and Business, Spain
     icon: ''
     summary: |
       We peopose a web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet.
+  - title: '`GRANT` | Der Förderkreis 1669'
+    url: 'https://www.uibk.ac.at/'
+    certificate_url: 'https://www.uibk.ac.at/foerderkreis1669/'
+    date: '2019-07-07'
+    awarder: University of Innsbruck, Austria
+    icon: ''
+    summary: |
+      The Förderkreis 1669 of the University of Innsbruck supports excellent young researchers by funding conference participation.
 ---
 
 ## Biography
