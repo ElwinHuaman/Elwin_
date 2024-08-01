@@ -270,21 +270,21 @@ languages:
 awards:
   - title: 'GRANT | Giving voices to the Quechua Collao vocabulary'
     url: 'https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Rapid_Fund/Giving_voices_to_the_Quechua_Collao_vocabulary_on_Wikimedia_Commons_(ID:_22450106)'
-    date: '2024-03-25'
+    date: '2024-04-01'
     awarder: Wikimedia Foundation
     icon: ''
     summary: |
       Our objective is to record the voices of the Quechua Collao vocabulary in various age ranges, and make the recordings available on Wikimedia Commons. So, the Quechua speakers, quechua learners, teachers, students, and ultimately scientists can build projects on top of it. For instance, the recordings can be used for the production of Open Educational Resources in mother tongues.
-  - title: 'Scholarship | Supporting technical contributor to Wikimedia projects'
+  - title: 'SCHOLARSHIP | Supporting technical contributor to Wikimedia projects'
     url: ''
-    date: '2023-07-01'
+    date: '2023-05-01'
     awarder: Wikimedia Foundation
     icon: ''
     summary: |
       Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+  - title: '`GRANT` | AURORA Summer School'
+    url: 'https://uibk.ac.at/'
+    certificate_url: ''
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
