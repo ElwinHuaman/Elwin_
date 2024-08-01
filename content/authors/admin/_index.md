@@ -76,7 +76,7 @@ education:
     button:
       text: 'Read _Steps to Knowledge Graphs Quality Assessment_'
       url: 'https://arxiv.org/pdf/2208.07779'
-  - area: M.Sc. in Web Engineering. 
+  - area: MSc in Web Engineering
     institution: University of Oviedo, Spain
     date_start: 2015-10-01
     date_end: 2017-07-01
@@ -90,17 +90,38 @@ education:
       - Direction and Management of web projects
       - Web content manager
       - Architecture and systems development E-Learning
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Business models in electronic commerce and web
+  - area: MSc in Digital Information Systems 
+    institution: University of Salamanca, Spain
+    date_start: 2013-09-01
+    date_end: 2014-07-01
     summary: |
-      GPA: 3.4/4.0
+      I focused on the management, preservation, digitalization, and organization of digital resources. Furthermore, I did my internship at the GREDOS repository of the university of Salamanca.
+
+      Courses included:
+      - Research in virtual environments and open science
+      - Content management systems
+      - Data science: social network analysis 
+      - Digital preservation
+      - Description, representation and organisation of digital content 
+      - Digital information indexing and retrieval systems
+      - Digital inclusion and sustainability
+  - area: BSc in Systems Engineering
+    institution: National University of Altiplano - Puno, Peru
+    date_start: 2008-01-01
+    date_end: 2012-12-30
+    summary: |
+      I focused on implementing a web system for managing students and teachers data of the National University of the Altiplano of Puno.
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Structure of data and algorithms
+      - Technologies for application development
+      - Planning and assessment of systems projects
+      - Software engineering
+      - Information systems
+      - Quality in organizations and re-engineering
+      - Distributed information systems
+      - Implementation of information systems
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
