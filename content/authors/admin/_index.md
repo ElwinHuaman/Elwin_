@@ -259,7 +259,7 @@ languages:
   - name: English
     percent: 90
   - name: Italian
-    percent: 75
+    percent: 60
   - name: German
     percent: 60
 
@@ -352,10 +352,10 @@ awards:
     awarder: Ministry of Foreign Affairs of Peru, Germany
     icon: ''
     summary: |
-      Grant to participate in the meeting of Peruvian scientists in Europe (SINAPSIS) in Berlin, Germany. I presented my contributions related to Linked Open Data  to the Peruvian scientists community.   
-  - title: '`First Prize` | University Contest of Talent and Entrepreneurship'
+      Grant to participate in the meeting of Peruvian scientists in Europe (SINAPSIS) in Berlin, Germany. I presented my contributions related to Linked Open Data  to the Peruvian scientists community.
+  - title: '`FIRST PRIZE` | University Contest of Talent and Entrepreneurship'
     url: 'https://www.uniovi.es/'
-    certificate_url: 'https://www.elcomercio.es/asturias/201706/06/gancho-alpacas-peruanas-20170606000443-v.html'
+    certificate_url: 'https://web.archive.org/web/20170710113959/https://www.elcomercio.es/asturias/201706/06/gancho-alpacas-peruanas-20170606000443-v.html'
     date: '2017-06-01'
     awarder: University of Oviedo, Spain
     icon: ''
@@ -363,6 +363,6 @@ awards:
       First prize in the University Contest of Talent and Entrepreneurship (CHAMP-U). The project let Alpaca breeder’s family in Peru offer their houses to visitors.
 ---
 
-## Biography
+## Hi, I'm Elwin Huaman 👋
 
 Elwin Huaman is a **Researcher**, **Project Manager**, and **Under-resourced Language Activist**. He has experience creating [Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-030-37439-6) and applying [Semantic Web]() technologies in academia and industry. He has co-authored the book: [Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6), and leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
