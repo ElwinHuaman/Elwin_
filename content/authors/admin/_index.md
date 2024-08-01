@@ -268,7 +268,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'GRANT | Giving voices to the Quechua Collao vocabulary'
+  - title: '`GRANT` | Giving voices to the Quechua Collao vocabulary'
     url: 'https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Rapid_Fund/Giving_voices_to_the_Quechua_Collao_vocabulary_on_Wikimedia_Commons_(ID:_22450106)'
     date: '2024-04-01'
     awarder: Wikimedia Foundation
@@ -283,20 +283,20 @@ awards:
     icon: ''
     summary: |
       University of Innsbruck grant for attending the AURORA Summer School on Public Outreach for selected PhD candidates, from 5 to 8 June, Iceland.
-  - title: 'SCHOLARSHIP | Supporting technical contributor to Wikimedia projects'
+  - title: '`SCHOLARSHIP` | Supporting technical contributor to Wikimedia projects'
     url: ''
     date: '2023-05-01'
     awarder: Wikimedia Foundation
     icon: ''
     summary: |
       Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
-  - title: 'FIRST PRIZE | Indigenous Languages Hackathon'
+  - title: '`FIRST PRIZE` | Indigenous Languages Hackathon'
     url: 'https://bit.ly/WSIS-winner'
-    date: '2022-04-01'
-    awarder: Wikimedia Foundation
+    date: '2022-05-01'
+    awarder: UNESCO
     icon: ''
     summary: |
-      Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
+      First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022). Generating knowledge in minority languages for the Web. [Read more](https://icts-for-indigenous-languages.hackerearth.com/).
 ---
 
 ## Biography
