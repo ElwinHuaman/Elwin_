@@ -220,6 +220,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Elwin Huaman is a **Researcher**, **Project Manager**, and **Low-resource Language Activist**. He has experience creating [Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-030-37439-6) and applying [Semantic Web]() technologies in academia and industry. He has co-authored the book: [Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6). Furthermore, he leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
