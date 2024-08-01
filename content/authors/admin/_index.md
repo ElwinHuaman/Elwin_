@@ -124,28 +124,28 @@ education:
       - Implementation of information systems
 # Work
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Project Manager
+    company_name: Qichwabase
+    company_url: 'https://qichwa.wikibase.cloud/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-01-01
+    date_end: 2024-06-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Implementing the Quechua Voices project 
+      - Monitor the project from its planning to final reporting
+      - Develop methods and tools to represent the Puno Quechua language
+  - position: Data Consultant
+    company_name: Digital Science Center (DISC), University of Innsbruck, Austria.
+    company_url: 'https://www.uibk.ac.at/de/disc/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-01
+    date_end: 2023-11-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Assist with the modelling and deployment of medieval mining text data. 
+      - Support the assessment of data correctness for the [https://miningtext.at/](TMMMT) Project. 
+      The outcome enabled the identiﬁcation of data modelling issues and prevented from representing inconsistent data.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
