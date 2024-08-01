@@ -275,21 +275,28 @@ awards:
     icon: ''
     summary: |
       Our objective is to record the voices of the Quechua Collao vocabulary in various age ranges, and make the recordings available on Wikimedia Commons. So, the Quechua speakers, quechua learners, teachers, students, and ultimately scientists can build projects on top of it. For instance, the recordings can be used for the production of Open Educational Resources in mother tongues.
-  - title: 'SCHOLARSHIP | Supporting technical contributor to Wikimedia projects'
-    url: ''
-    date: '2023-05-01'
-    awarder: Wikimedia Foundation
-    icon: ''
-    summary: |
-      Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
   - title: '`GRANT` | AURORA Summer School'
     url: 'https://uibk.ac.at/'
     certificate_url: ''
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    date: '2023-06-01'
+    awarder: University of Innsbruck
+    icon: ''
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      University of Innsbruck grant for attending the AURORA Summer School on Public Outreach for selected PhD candidates, from 5 to 8 June, Iceland.
+  - title: 'SCHOLARSHIP | Supporting technical contributor to Wikimedia projects'
+      url: ''
+      date: '2023-05-01'
+      awarder: Wikimedia Foundation
+      icon: ''
+      summary: |
+        Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
+  - title: 'FIRST PRIZE | Indigenous Languages Hackathon'
+      url: 'https://bit.ly/WSIS-winner'
+      date: '2022-04-01'
+      awarder: Wikimedia Foundation
+      icon: ''
+      summary: |
+        Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
 ---
 
 ## Biography
