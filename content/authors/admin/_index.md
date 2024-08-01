@@ -313,6 +313,14 @@ awards:
     icon: ''
     summary: |
       First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022). Generating knowledge in minority languages for the Web.
+  - title: '`BEST PAPER AWARD` | Towards Knowledge Graphs Validation'
+    url: 'https://bit.ly/WSIS-winner'
+    certificate_url: '../../uploads/UNESCOHack.jpeg'
+    date: '2022-05-01'
+    awarder: UNESCO
+    icon: ''
+    summary: |
+      Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021), _Towards Knowledge Graphs Validation through Weighted Knowledge Sources_. Read more: https://doi.org/10.1007/978-3-030-91305-2_4.
 ---
 
 ## Biography
