@@ -160,7 +160,43 @@ work:
       - Develop, implement, and localize the _Reading Wikipedia in the Classroom_ program for the Spanish-speaking user group in Peru. 
       - Create and develop an e-learning course using the OpenEdX Learning Management System. 
       
-      The blended program reached 130 teachers, and it was translated to the Quechua language: Quechua. 
+      The blended program reached 130 teachers, and it was translated to the Quechua language. 
+  - position: E-learning Facilitator
+    company_name: Wikimedia Foundation, USA (Remote)
+    company_url: https://wikimediafoundation.org/
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-12-30
+    summary: |
+      Responsibilities include:
+      - Support the development of e-learning programs such as _Training of Trainers_. The program hosted +20 participants from diﬀerent countries
+      - Assist its smooth implementation and assessment. 
+      - Creat e-learning materials to present complex concepts of the free knowledge ecosystem to non-expert audiences. 
+  - position: Lecturer
+    company_name: Computer Science Department, Innsbruck University, Austria
+    company_url: https://uibk.ac.at/
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2022-12-30
+    summary: |
+      Responsibilities include to teach groundbreaking subjects:
+      - Knowledge graphs and Smart Data
+      - Advance topics in computer science
+      - Online communication and marketing
+      - Programming methodology
+  - position: Research Assistant
+    company_name: Semantic Technology Institute (STI), University of Innsbruck, Austria.
+    company_url: https://www.sti-innsbruck.at/
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2022-12-30
+    summary: |
+      Responsibilities include:
+      - Developed and implement data and knowledge management strategies
+      - Research and develop a knowledge graph curation framework in order to assess the quality of knowledge graphs
+      - Assist the development of the MindLab and WordLiftNG projects
+      
+      The outcome highlighted the tasks; assessment, cleaning, and enrichment, which is described in the book: _Knowledge Graphs: Methodologies, Tools, and Selected Use Cases_. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
