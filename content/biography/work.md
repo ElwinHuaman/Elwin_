@@ -18,5 +18,5 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_work_first: true
-      is_education: false
+      is_education_off: true
 ---
