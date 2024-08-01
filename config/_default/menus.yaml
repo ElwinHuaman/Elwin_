@@ -30,9 +30,9 @@ main:
   #   weight: 50
   - name: Education
     url: bio/education/
-    parent: Biography
+    parent: Bio
     weight: 51
   - name: Languages
     url: bio/languages/
-    parent: Biography
+    parent: Bio
     weight: 52
