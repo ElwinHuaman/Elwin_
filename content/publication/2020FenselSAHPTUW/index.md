@@ -1,11 +1,10 @@
 ---
 title: "Knowledge Graphs: Methodology, Tools and Selected Use Cases"
 authors:
-- admin
 - Dieter Fensel
 - Umutcan Şimşek
 - Kevin Angele
-- Elwin Huaman
+- admin
 - Elias Kärle
 - Oleksandra Panasiuk
 - Ioan Toma
