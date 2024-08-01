@@ -145,6 +145,7 @@ work:
       Responsibilities include:
       - Assist with the modelling and deployment of medieval mining text data. 
       - Support the assessment of data correctness for the [https://miningtext.at/](TMMMT) Project. 
+      
       The outcome enabled the identiﬁcation of data modelling issues and prevented from representing inconsistent data.
 
 # Skills
