@@ -268,13 +268,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: '**Grant** Giving voices to the Quechua Collao vocabulary'
+  - title: 'GRANT | Giving voices to the Quechua Collao vocabulary'
     url: 'https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Rapid_Fund/Giving_voices_to_the_Quechua_Collao_vocabulary_on_Wikimedia_Commons_(ID:_22450106)'
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date: '2024-03-25'
+    awarder: Wikimedia Foundation
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Our objective is to record the voices of the Quechua Collao vocabulary in various age ranges, and make the recordings available on Wikimedia Commons. So, the Quechua speakers, quechua learners, teachers, students, and ultimately scientists can build projects on top of it. For instance, the recordings can be used for the production of Open Educational Resources in mother tongues.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
