@@ -60,24 +60,36 @@ interests:
 education:
   - area: PhD in Linguistics and Media Studies (ongoing)
     institution: Innsbruck University, Austria
-    date_start: 2023-10-23
-    date_end: ongoing
+    date_start: 2023-10-10
+    date_end: 2025-12-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Building Knowledge Graphs for Under-resourced Languages_. I research the approaches for building knowledge graphs for under-resourced languages, that involves a holistic process of resource collection, creation, storing, curation, and deployment.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Read _QICHWABASE_'
+      url: 'https://arxiv.org/pdf/2305.06173'
+  - area: PhD in Computer Science (candidate)
+    institution: Innsbruck University, Austria
+    date_start: 2019-03-01
+    date_end: 2022-12-30
     summary: |
-      GPA: 3.8/4.0
+      Thesis on _Knowledge Graph Quality Assessment_. I researched the representation, curation, and assessment of knowledge graphs, e.g. data modelling, ontologies, knowledge representation, and knowledge curation.
+    button:
+      text: 'Read _Steps to Knowledge Graphs Quality Assessment_'
+      url: 'https://arxiv.org/pdf/2208.07779'
+  - area: M.Sc. in Web Engineering. 
+    institution: University of Oviedo, Spain
+    date_start: 2015-10-01
+    date_end: 2017-07-01
+    summary: |
+      I specialized in Semantic Web technologies that can allow the representation, validation, and deployment of data on and oﬀ the web.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - New Developments in Semantic Web
+      - Languages and web standards
+      - Ethical and legal aspect of the web
+      - Direction and Management of web projects
+      - Web content manager
+      - Architecture and systems development E-Learning
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
