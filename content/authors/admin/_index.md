@@ -138,15 +138,15 @@ work:
 
       As result 1300 lexemes, with their senses, forms, and pronunciation speech where added into Wikidata.
   - position: Data Consultant
-    company_name: Digital Science Center (DISC), University of Innsbruck, Austria.
+    company_name: Digital Science Center (DISC), University of Innsbruck, Austria
     company_url: 'https://www.uibk.ac.at/de/disc/'
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-11-30
     summary: |
       Responsibilities include:
-      - Assist with the modelling and deployment of medieval mining text data. 
-      - Support the assessment of data correctness for the [TMMMT](https://miningtext.at/) Project. 
+      - Assist with the modelling and deployment of medieval mining text data
+      - Support the assessment of data correctness for the _Historical Mining Texts_ Project
       
       The outcome enabled the identiﬁcation of data modelling issues and prevented from representing inconsistent data.
   - position: E-learning Developer
@@ -157,8 +157,8 @@ work:
     date_end: 2023-06-30
     summary: |
       Responsibilities include:
-      - Develop, implement, and localize the _Reading Wikipedia in the Classroom_ program for the Spanish-speaking user group in Peru. 
-      - Create and develop an e-learning course using the OpenEdX Learning Management System. 
+      - Develop, implement, and localize the _Reading Wikipedia in the Classroom_ program for the Spanish-speaking user group in Peru
+      - Create and develop an e-learning course using the OpenEdX Learning Management System
       
       The blended program reached 130 teachers, and the program materials were translated to the Quechua language. 
   - position: E-learning Facilitator
@@ -250,6 +250,7 @@ skills:
         percent: 80
         icon: camera
 
+# Languages
 languages:
   - name: Quechua
     percent: 100
@@ -267,8 +268,8 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: '**Grant** Giving voices to the Quechua Collao vocabulary'
+    url: 'https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Rapid_Fund/Giving_voices_to_the_Quechua_Collao_vocabulary_on_Wikimedia_Commons_(ID:_22450106)'
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera

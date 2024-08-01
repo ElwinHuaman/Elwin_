@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Awards, Achievements, and Grants'
 date: 2023-10-24
 type: landing
 
@@ -12,6 +12,6 @@ design:
 sections:
   - block: resume-awards
     content:
-      title: Awards
+      title: Awards, Achievements, and Grants
       username: admin
 ---
