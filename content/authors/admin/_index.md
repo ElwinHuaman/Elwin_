@@ -181,12 +181,16 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Quechua
     percent: 100
-  - name: Chinese
+  - name: Spanish
+    percent: 100
+  - name: English
+    percent: 90
+  - name: Italian
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
