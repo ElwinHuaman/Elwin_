@@ -314,13 +314,22 @@ awards:
     summary: |
       First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022). Generating knowledge in minority languages for the Web.
   - title: '`BEST PAPER AWARD` | Towards Knowledge Graphs Validation'
-    url: 'https://bit.ly/WSIS-winner'
-    certificate_url: '../../uploads/UNESCOHack.jpeg'
-    date: '2022-05-01'
-    awarder: UNESCO
+    url: 'https://doi.org/10.1007/978-3-030-91305-2_4'
+    certificate_url: '../../uploads/ElwinHuamanKGSWC2021.JPG'
+    date: '2021-11-24'
+    awarder: Iberoamerican Knowledge Graphs and Semantic Web Conference
     icon: ''
     summary: |
-      Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021), _Towards Knowledge Graphs Validation through Weighted Knowledge Sources_. Read more: https://doi.org/10.1007/978-3-030-91305-2_4.
+      Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021), _Towards Knowledge Graphs Validation through Weighted Knowledge Sources_.
+  - title: '`FINALISTS PHASE` | Aporta Challenge 2019, Ideas competition'
+    url: 'https://www.youtube.com/watch?v=6KZ5FkUBQlc'
+    certificate_url: '../../uploads/ElwinHuamanKGSWC2021.JPG'
+    video_url: https://www.youtube.com/watch?v=6KZ5FkUBQlc
+    date: '2019-12-17'
+    awarder: Ministry of Economy and Business, Spain
+    icon: ''
+    summary: |
+      We peopose a web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet.
 ---
 
 ## Biography
