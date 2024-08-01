@@ -7,6 +7,27 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Education
+    url: bio/education/
+    parent: Bio
+    weight: 11
+  - name: Experience
+    url: bio/experience/
+    parent: Bio
+    weight: 12
+  - name: Languages
+    url: bio/languages/
+    parent: Bio
+    weight: 13
+  - name: Awards
+    url: bio/awards/
+    parent: Bio
+    weight: 14
+  - name: Skills
+    url: bio/skills/
+    parent: Bio
+    weight: 15
+    # 
   - name: Papers
     url: /#papers
     weight: 11
@@ -16,9 +37,9 @@ main:
   - name: News
     url: /#news
     weight: 13
-  - name: Experience
-    url: experience/
-    weight: 20
+  # - name: Experience
+  #   url: experience/
+  #   weight: 20
   - name: Projects
     url: projects/
     weight: 30
@@ -28,11 +49,4 @@ main:
   # - name: Biography
   #   url: biography/
   #   weight: 50
-  - name: Education
-    url: bio/education/
-    parent: Bio
-    weight: 51
-  - name: Languages
-    url: bio/languages/
-    parent: Bio
-    weight: 52
+
