@@ -23,38 +23,39 @@ publishDate: "2020-03-14T01:57:51+01:00"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["book"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Springer Nature"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "This book describes methods and tools that empower information providers to build and maintain knowledge graphs, including those for manual, semi-automatic, and automatic construction; implementation; and validation and verification of semantic annotations and their integration into knowledge graphs. It also presents lifecycle-based approaches for semi-automatic and automatic curation of these graphs, such as approaches for assessment, error correction, and enrichment of knowledge graphs with other static and dynamic resources. Chapter 1 defines knowledge graphs, focusing on the impact of various approaches rather than mathematical precision. Chapter 2 details how knowledge graphs are built, implemented, maintained, and deployed. Chapter 3 then introduces relevant application layers that can be built on top of such knowledge graphs, and explains how inference can be used to define views on such graphs, making it a useful resource for open and service-oriented dialog systems. Chapter 4 discusses applications of knowledge graph technologies for e-tourism and use cases for other verticals. Lastly, Chapter 5 provides a summary and sketches directions for future work. The additional appendix introduces an abstract syntax and semantics for domain specifications that are used to adapt schema. org to specific domains and tasks. To illustrate the practical use of the approaches presented, the book discusses several pilots with a focus on conversational interfaces, describing how to exploit knowledge graphs for e-marketing and e-commerce. It is intended for advanced professionals and researchers requiring a brief introduction."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This book describes methods and tools that empower information providers to build and maintain knowledge graphs.
 
 tags:
-- Source Themes
-featured: false
+- Research
+- Knowledge Graphs
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.springer.com/gp/book/9783030374389'
+url_code: 'https://www.springer.com/gp/book/9783030374389'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.springer.com/gp/book/9783030374389'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Elwin Huaman'
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -62,14 +63,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [MindLab]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
