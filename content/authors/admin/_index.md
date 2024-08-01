@@ -152,7 +152,7 @@ skills:
   - name: Hard skills
     items:
       - name: Coding
-        description: 'Html, Java, JavaScript, LATEX, Markdown, Python.'
+        description: ''
         percent: 80
         icon: code-bracket
       - name: E-learning
@@ -169,15 +169,15 @@ skills:
         icon: circle-stack
   - name: Soft skills
     items:
-      - name: Python
+      - name: Personal
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Interpersonal
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Misc.
         description: ''
         percent: 40
         icon: circle-stack
@@ -189,11 +189,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Chess
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Volleyball
         description: ''
         percent: 80
         icon: camera
