@@ -149,35 +149,25 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Coding
+  - name: Hard skills
     items:
-      - name: Python
-        description: ''
+      - name: Coding
+        description: 'Html, Java, JavaScript, LATEX, Markdown, Python.'
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: E-learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Databases
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Databases
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
         icon: circle-stack
-  - name: Soft Skills
+      - name: Software
+        description: ''
+        percent: 100
+        icon: circle-stack
+  - name: Soft skills
     items:
       - name: Python
         description: ''
