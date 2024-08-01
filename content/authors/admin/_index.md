@@ -290,14 +290,29 @@ awards:
     icon: ''
     summary: |
       Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
+  - title: '`SCIENCE SLAM WINNER` | Preserving human knowledge through knowledge graphs'
+    url: 'http://www.scienceslam.at/'
+    date: '2023-09-27'
+    awarder: Science Slam Austria
+    icon: ''
+    summary: |
+      Preserving human knowledge through knowledge graphs by Elwin Huaman (ScienceSlam2022), See the video: https://www.youtube.com/watch?v=VZmVrKyYsgU.
+  - title: '`BEST PROJECT AWARD` | Dictionary LODification using Wikibase'
+    url: 'https://datathon2022.linkeddata.es/'
+    certificate_url: '../../uploads/NexusCertificate.png'
+    date: '2023-06-03'
+    awarder: European network for Web-centred linguistic data science
+    icon: ''
+    summary: |
+      Best Project Award at the 4th Summer Datathon on Linguistic Linked Open Data (SDLLOD-22) with the project _Dictionary LODification using Wikibase: Quechua language_.
   - title: '`FIRST PRIZE` | Indigenous Languages Hackathon'
     url: 'https://bit.ly/WSIS-winner'
-    certificate_url: '../uploads/UNESCOHack.jpeg'
+    certificate_url: '../../uploads/UNESCOHack.jpeg'
     date: '2022-05-01'
     awarder: UNESCO
     icon: ''
     summary: |
-      First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022). Generating knowledge in minority languages for the Web. [Read more](https://icts-for-indigenous-languages.hackerearth.com/).
+      First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022). Generating knowledge in minority languages for the Web.
 ---
 
 ## Biography
