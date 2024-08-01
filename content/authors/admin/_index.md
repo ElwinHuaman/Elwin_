@@ -284,19 +284,19 @@ awards:
     summary: |
       University of Innsbruck grant for attending the AURORA Summer School on Public Outreach for selected PhD candidates, from 5 to 8 June, Iceland.
   - title: 'SCHOLARSHIP | Supporting technical contributor to Wikimedia projects'
-      url: ''
-      date: '2023-05-01'
-      awarder: Wikimedia Foundation
-      icon: ''
-      summary: |
-        Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
+    url: ''
+    date: '2023-05-01'
+    awarder: Wikimedia Foundation
+    icon: ''
+    summary: |
+      Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
   - title: 'FIRST PRIZE | Indigenous Languages Hackathon'
-      url: 'https://bit.ly/WSIS-winner'
-      date: '2022-04-01'
-      awarder: Wikimedia Foundation
-      icon: ''
-      summary: |
-        Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
+    url: 'https://bit.ly/WSIS-winner'
+    date: '2022-04-01'
+    awarder: Wikimedia Foundation
+    icon: ''
+    summary: |
+      Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
 ---
 
 ## Biography
