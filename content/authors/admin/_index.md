@@ -152,15 +152,15 @@ skills:
   - name: Hard skills
     items:
       - name: Coding
-        description: 'HTML, Java, JavaScript, Python'
+        description: 'HTML, Java, Python, JavaScript, Markdown, LaTeX'
         percent: 80
         icon: code-bracket
       - name: E-learning
-        description: 'OpenEdx, Moodle, Figma, Canva'
+        description: 'Moodle, OpenEdx, OpenOLAT, Figma, Canva, Camtasia, OBS Studio, Teams, Zoom'
         percent: 100
         icon: chart-bar
       - name: Databases
-        description: 'GraphDB, MySQL, SPARQL, Wikibase'
+        description: 'GraphDB, SPARQL, MySQL, Wikibase'
         percent: 100
         icon: circle-stack
       - name: Software
@@ -170,31 +170,31 @@ skills:
   - name: Soft skills
     items:
       - name: Personal
-        description: ''
+        description: 'Creative thinking, flexibility, initiative, leadership'
         percent: 80
         icon: code-bracket
       - name: Interpersonal
-        description: ''
+        description: 'Active learning, digital literacy, facilitation, mentorship, public speaking'
         percent: 100
         icon: chart-bar
       - name: Misc.
-        description: ''
+        description: 'Academic research, teaching, training, consultation'
         percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: Outdoors
+        description: 'Basketball, Beach volleyball, Climbing, Hiking, Mountain biking, Travel'
         percent: 60
         icon: person-simple-walk
-      - name: Chess
-        description: ''
+      - name: Indoors
+        description: 'Board games, Chess, Cooking, Dance, Swimming, Volleyball'
         percent: 100
         icon: cat
-      - name: Volleyball
-        description: ''
+      - name: Activism
+        description: 'Digital literacy, Quechua,  Responsible AI, Under-resourced languages'
         percent: 80
         icon: camera
 
