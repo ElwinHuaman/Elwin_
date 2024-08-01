@@ -292,6 +292,7 @@ awards:
       Wikimedia Foundation for supporting technical contributor to Wikimedia projects, and allow them to attend the Wikimedia Hackathon 19–21 May, Greece
   - title: '`FIRST PRIZE` | Indigenous Languages Hackathon'
     url: 'https://bit.ly/WSIS-winner'
+    certificate_url: '../uploads/UNESCOHack.jpeg'
     date: '2022-05-01'
     awarder: UNESCO
     icon: ''
