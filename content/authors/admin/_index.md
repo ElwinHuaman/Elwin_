@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Elwin Huaman
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: El-win Wɒ-mʌŋ
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Elwin
-last_name: Huaman
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: 🇵🇪 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,90 +20,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Innsbruck University
-    url: http://uibk.ac.at/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:your-email@example.com'
-  #   label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/ElwinHuaman
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/ElwinHuaman
-  - icon: brands/youtube
-    url: https://www.youtube.com/@ElwinHuaman
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/ElwinHuaman
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/ElwinHuaman
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=D7AE8QsAAAAJ
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-2410-4977
+    url: https://orcid.org/
 
 interests:
-  - Semantic Web
-  - Knowledge Graphs
-  - Responsible AI
-  - Wikibase Ecosystem
-  - Under-resourced Languages
+  - Artificial Intelligence
   - Computational Linguistics
-  - Minority communities
-  - Quechua language
-  - Web for all
-
-
+  - Information Retrieval
 
 education:
-  - area: PhD in Linguistics and Media Studies
-    institution: Innsbruck University, Austria
-    date_start: 2023
-    date_end: Ongoing
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-  - area: Msc in Web Engineering
-    institution: Oviedo University, Spain
-    date_start: 2015
-    date_end: 2017
-    # summary: |
-    #   GPA: 3.8/4.0
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Msc in Digital Information Systems
-    institution: Salamanca University, Spain
-    date_start: 2013
-    date_end: 2014
-    # summary: |
-    #   GPA: 3.8/4.0
-
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc in Systems Engineering 
-    institution: National University of Altiplano, Peru
-    date_start: 2008
-    date_end: 2012
-    # summary: |
-    #   GPA: 3.4/4.0
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
