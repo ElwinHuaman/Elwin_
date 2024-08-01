@@ -207,7 +207,8 @@ skills:
         description: ''
         percent: 80
         icon: camera
-hard-skills:
+
+hardskills:
   - name: Codingg
     items:
       - name: Python

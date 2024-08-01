@@ -16,7 +16,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-hard-skills
+  - block: resume-hardskills
     content:
       title: Hard Skills
       username: admin
