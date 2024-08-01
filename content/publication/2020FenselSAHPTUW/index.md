@@ -35,8 +35,9 @@ abstract: "This book describes methods and tools that empower information provid
 summary: This book describes methods and tools that empower information providers to build and maintain knowledge graphs.
 
 tags:
-- Research
 - Knowledge Graphs
+- Research
+
 featured: true
 
 # links:
