@@ -31,7 +31,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: HTML
+  - block: markdown
     content:
       title: 'Elwin Huamans Knowledge Graph'
       subtitle: 'powered by Wikidata'
