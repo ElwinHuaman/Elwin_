@@ -1,6 +1,6 @@
 ---
-title: 'Education'
-date: 2024-08-01
+title: 'Work Experience'
+date: 2024-08-1
 type: landing
 
 design:
@@ -17,5 +17,5 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: true
+      is_work_first: true
 ---
