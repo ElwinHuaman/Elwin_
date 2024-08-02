@@ -13,5 +13,6 @@ sections:
   - block: resume-awards
     content:
       title: Awards, Achievements, and Grants
+      text: ''
       username: admin
 ---

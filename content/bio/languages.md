@@ -13,7 +13,6 @@ sections:
   - block: resume-languages
     content:
       title: Languages
-      text: 'The language that I have learned over the years'
+      text: 'As a professional who worked in different countries, I bring a diverse linguistic skill set to my work. My proficiency in multiple languages enhances my ability to communicate my ideas, challenges, and connect with others.'
       username: admin
-      description: 'The languages of america'
 ---
