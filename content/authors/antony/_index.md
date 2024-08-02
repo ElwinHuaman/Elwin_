@@ -73,7 +73,3 @@ user_groups:
 - Researchers
 - Grandchildren
 ---
-
-Jorge Huaman is a B.Sc. in Informatics from the [University of Altiplano, Puno](https://portal.unap.edu.pe/). His main interests are helping communities, particulary rural and minority communities, on digital literacy.
-
-He runs the [Huaman Quispe Sustainable Farm](https://quechuaexperience.github.io/) project, which empowers local communities on preserving their knowledge, traditions, cultural ceremonies, and more.
