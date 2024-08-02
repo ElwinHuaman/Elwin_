@@ -42,11 +42,15 @@ main:
   - name: 2022 Qichwabase
     url: project/qichwabase/
     parent: Projects
-    weight: 39
+    weight: 36
   - name: 2019 KIPU
     url: project/kipu/
     parent: Projects
     weight: 40
+  - name: 2018 MindLab
+    url: project/mindlab/
+    parent: Projects
+    weight: 41
     # 
   - name: Papers
     url: /#papers
