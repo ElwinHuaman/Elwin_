@@ -77,4 +77,3 @@ user_groups:
 Wendi Huaman is a B.Sc. in Human Nutrition from the [University of Altiplano, Puno](https://portal.unap.edu.pe/). Her main interests are helping people, particulary children, on maintaining an adequate diet that provides their body with the right nutrition to cover their basic and biological needs.
 
 He runs the [Huaman Quispe Sustainable Farm](https://quechuaexperience.github.io/) project, which is a sustainable farm that preserves as much as possible all quechua knowledge, traditions, cultural ceremonies, and more.
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
