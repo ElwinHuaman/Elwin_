@@ -3,8 +3,12 @@
 title: Yamel Huaman
 
 # Username (this should match the folder name)
-authors:
-- yamel
+# authors:
+# - yamel
+
+# Full name (for SEO)
+first_name: Yamel
+last_name: Huaman
 
 # Is this the primary user of the site?
 superuser: false
