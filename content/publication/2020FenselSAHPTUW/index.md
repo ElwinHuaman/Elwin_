@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Elwin Huaman'
+  caption: 'Image credit: Elwin Huaman'
   focal_point: ''
   preview_only: false
 

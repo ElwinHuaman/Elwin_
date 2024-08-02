@@ -11,7 +11,7 @@ date: "2019-09-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Elwin
+  caption: 'Image credit: Elwin Huaman'
   focal_point: Smart
 
 # links:
