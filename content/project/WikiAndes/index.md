@@ -9,7 +9,7 @@ date: "2022-12-22T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Elwin
+  caption: "Image credit: Elwin Huaman"
   focal_point: Smart
 
 # links:

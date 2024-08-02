@@ -33,7 +33,7 @@ tags:
 - Semantic Web
 - Quechua
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

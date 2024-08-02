@@ -8,7 +8,7 @@ date: "2019-12-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
+  caption: "Image credit: Elwin Huaman"
   focal_point: ""
 
 # Custom links (optional).
