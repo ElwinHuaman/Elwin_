@@ -1,4 +1,4 @@
 ---
 title: Projects
-view: Compact
+view: List
 ---
