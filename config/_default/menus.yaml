@@ -27,6 +27,10 @@ main:
     url: bio/languages/
     parent: Bio
     weight: 15
+  - name: Family
+    url: bio/family/
+    parent: Bio
+    weight: 16
     # 
   - name: Publications
     url: publication/
