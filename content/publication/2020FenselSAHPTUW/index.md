@@ -13,11 +13,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-03-14T01:57:51+01:00"
+date: "2020-01-01T01:57:51+01:00"
 doi: "10.1007/978-3-030-37439-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-14T01:57:51+01:00"
+publishDate: "2020-01-01T01:57:51+01:00"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
