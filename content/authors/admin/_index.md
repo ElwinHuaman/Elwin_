@@ -224,19 +224,19 @@ skills:
       - name: Communication
         description: 'Presentation skills, active listening, facilitation, time management'
         percent: 100
-        icon: code-bracket
+        icon: chat-bubble-left-right
       - name: Teamwork
         description: 'Collaboration, mediation, brainstorming, goal-setting'
         percent: 100
-        icon: chart-bar
+        icon: user-group
       - name: Leadership
         description: 'Initiative, delegation, mentorship, motivation'
         percent: 100
-        icon: chart-bar
+        icon: rocket-launch
       - name: Problem-solving
         description: 'Creative thinking, strategic thinking, consultation'
         percent: 100
-        icon: circle-stack
+        icon: check-badge
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -244,15 +244,15 @@ skills:
       - name: Outdoor
         description: 'Basketball, Beach volleyball, Climbing, Hiking, Mountain biking, Travel'
         percent: 60
-        icon: person-simple-walk
+        icon: globe-americas
       - name: Indoor
         description: 'Board games, Chess, Cooking, Dance, Swimming, Volleyball'
         percent: 100
-        icon: cat
+        icon: puzzle-piece
       - name: Activism
         description: 'Digital literacy, Quechua,  Responsible AI, Under-resourced languages'
         percent: 80
-        icon: camera
+        icon: person-simple-walk
 
 # Languages
 languages:
