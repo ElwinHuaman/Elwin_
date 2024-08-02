@@ -9,8 +9,8 @@ date: "2021-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Photo by [@ElwinHuaman](https://twitter.com/ElwinHuaman)"
-  focal_point: Smart
+  caption: "Image credit: Elwin Huaman"
+  focal_point: 
 
 links:
 - icon: twitter
