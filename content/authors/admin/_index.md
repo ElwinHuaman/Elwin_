@@ -226,7 +226,7 @@ skills:
         percent: 100
         icon: code-bracket
       - name: Teamwork
-        description: 'Collaboration, mediation, brainstorming, management, goal-setting'
+        description: 'Collaboration, mediation, brainstorming, goal-setting'
         percent: 100
         icon: chart-bar
       - name: Leadership
