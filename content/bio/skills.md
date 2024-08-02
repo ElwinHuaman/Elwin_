@@ -18,4 +18,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+
 ---
+
