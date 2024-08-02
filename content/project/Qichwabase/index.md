@@ -3,6 +3,7 @@ title: "Qichwabase"
 summary: "Quechua communities around the world gather millions of people. Unfortunately, there are only a few resources available in Quechua language, and they are mainly stored in unstructured formats. In this project, we will present the idea of building a knowledge graph to support the under-resourced Quechua language and its communities through wiki projects."
 authors: ["admin"]
 tags: ["Knowledge Graphs", "Quechua"]
+featured: true
 date: "2024-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

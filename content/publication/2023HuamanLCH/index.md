@@ -29,9 +29,9 @@ abstract: "Over the last decade, the Web has increasingly become a space of lang
 summary: We propose QICHWABASE to support the harmonization process of the Quechua language and knowledge, and its community.
 
 tags:
+- Quechua
 - Knowledge Graphs
 - Semantic Web
-- Quechua
 
 featured: true
 

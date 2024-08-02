@@ -42,6 +42,17 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    id: projects
+    content:
+      title: Featured Projects
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: markdown
     content:
       title: '📚 Elwin Huaman Knowledge Graph'
