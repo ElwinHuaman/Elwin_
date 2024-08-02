@@ -37,12 +37,12 @@ tags:
 - Semantic Web
 - Quality Assessment
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.1007/s42979-022-01429-x'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s42979-022-01429-x.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
