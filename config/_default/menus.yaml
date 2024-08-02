@@ -64,9 +64,9 @@ main:
     parent: Projects
     weight: 41
     # 
-  - name: Papers
-    url: /#papers
-    weight: 61
+  # - name: Papers
+  #   url: /#papers
+  #   weight: 61
   - name: Talks
     url: /#talks
     weight: 62
