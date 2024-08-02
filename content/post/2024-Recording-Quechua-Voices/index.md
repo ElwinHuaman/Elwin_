@@ -18,7 +18,7 @@ lastmod: "2024-04-01T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -29,12 +29,12 @@ image:
   preview_only: false
 
 authors:
-- Elwin
+- admin
 
 tags:
-- Family
-- Ayllu
 - Quechua
+- HuamanQuispe
+- LinguaLibre
 
 categories:
 - Quechua
