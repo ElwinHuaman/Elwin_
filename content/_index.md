@@ -41,7 +41,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     id: projects
     content:
@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: markdown
     content:
       title: '📚 Elwin Huaman Knowledge Graph'

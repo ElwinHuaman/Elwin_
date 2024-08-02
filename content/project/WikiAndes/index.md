@@ -2,8 +2,9 @@
 title: "WikiAndes [Bringing Wiki Projects to the Andes]"
 summary: "Bringing Wiki Projects to the Andes aims to impart key knowledge 
 onto learners and society at large."
-tags: ["Research", "Education", "Wikipedia"]
+tags: ["Education", "Wikipedia", "Quechua"]
 date: "2022-12-22T00:00:00Z"
+featured: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

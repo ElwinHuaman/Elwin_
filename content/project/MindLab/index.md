@@ -7,6 +7,7 @@ authors: []
 tags: ["Semantic Web", "Knowledge Graphs"]
 categories: []
 date: 2018-09-01T02:11:20+01:00
+featured: true
 
 
 # Optional external URL for project (replaces project detail page).
