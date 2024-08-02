@@ -210,7 +210,7 @@ skills:
       - name: E-learning
         description: 'Moodle, OpenEdx, OpenOLAT, Figma, Canva, Camtasia, OBS Studio, Teams, Zoom'
         percent: 100
-        icon: chart-bar
+        icon: presentation-chart-bar
       - name: Databases
         description: 'GraphDB, SPARQL, MySQL, Wikibase'
         percent: 100
@@ -218,7 +218,7 @@ skills:
       - name: Software
         description: 'Jira, JupyterLab, Wikidata, WordPress'
         percent: 100
-        icon: gear-code
+        icon: computer-desktop
   - name: Soft skills
     items:
       - name: Communication
