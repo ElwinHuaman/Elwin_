@@ -43,10 +43,6 @@ main:
     url: project/quechuavoices/
     parent: Projects
     weight: 32
-  - name: 2023 TMMMT
-    url: project/tmmmt/
-    parent: Projects
-    weight: 32
   - name: 2023 WikiAndes
     url: project/wikiandes/
     parent: Projects
@@ -55,10 +51,6 @@ main:
     url: project/qichwabase/
     parent: Projects
     weight: 35
-  - name: 2022 Warmikunarayku
-    url: project/warmikunarayku/
-    parent: Projects
-    weight: 36
   - name: 2021 WordLift NG
     url: project/wordliftng/
     parent: Projects
@@ -67,14 +59,6 @@ main:
     url: project/quechuawikipedia/
     parent: Projects
     weight: 38
-  - name: 2020 QUIPU
-    url: project/quipu/
-    parent: Projects
-    weight: 39
-  - name: 2019 KIPU
-    url: project/kipu/
-    parent: Projects
-    weight: 40
   - name: 2018 MindLab
     url: project/mindlab/
     parent: Projects

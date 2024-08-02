@@ -5,7 +5,7 @@ tags: ["Research", "Knowledge Graphs"]
 date: "2019-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://wordlift.io/ng/"
+external_link: ""
 
 image:
   caption: ""
@@ -18,7 +18,7 @@ image:
 #   name: Follow
 #   url: ""
 url_code: ""
-url_pdf: ""
+url_pdf: "https://wordlift.io/ng/"
 url_slides: ""
 url_video: ""
 
