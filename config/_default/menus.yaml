@@ -87,4 +87,5 @@ main:
   # - name: Biography
   #   url: biography/
   #   weight: 50
-
+  - name: Contact
+    weight: 60
