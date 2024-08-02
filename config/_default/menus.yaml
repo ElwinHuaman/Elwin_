@@ -33,12 +33,15 @@ main:
     weight: 20
     # 
   - name: Projects
+    # url: projects/
+    weight: 30
+  - name: All Projects
     url: projects/
     weight: 30
   - name: Qichwabase
     url: project/qichwabase/
     parent: Projects
-    weight: 15
+    weight: 11
     # 
   - name: Papers
     url: /#papers
