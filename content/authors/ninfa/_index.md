@@ -86,5 +86,3 @@ He runs the [Huaman Quispe Sustainable Farm](https://quechuaexperience.github.io
 </blockquote>
 
 <p>See more in <a href="http://www.heiferperu.org/index.php/es/historias-de-vida/item/42-ninfa-quispe-condori-ensenando-a-creer">Heifer Peru</a></p>
-                            
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -82,5 +82,4 @@ He runs the [Huaman Quispe Sustainable Farm](https://quechuaexperience.github.io
 
 He played and launched various album, listen them in [Spotify](https://open.spotify.com/artist/4eROXlptBLFnGoqWArvjQA)
 
-<iframe src="https://open.spotify.com/embed/artist/4eROXlptBLFnGoqWArvjQA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>                  
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+<iframe src="https://open.spotify.com/embed/artist/4eROXlptBLFnGoqWArvjQA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
