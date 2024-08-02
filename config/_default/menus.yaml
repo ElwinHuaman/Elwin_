@@ -28,7 +28,7 @@ main:
     parent: Bio
     weight: 15
   - name: Family
-    url: bio/family/
+    url: bio/team/
     parent: Bio
     weight: 16
     # 

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet my family
+title: Meet our family
 subtitle:
 
 content:
