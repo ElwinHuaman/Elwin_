@@ -1,31 +1,31 @@
 ---
-title: "Towards an Ecology of Knowledge - Yachana 2021"
+title: "Quechua Wikipidiya Editaton - I"
 
-event: Yachana 2021
-event_url: http://yachana.edu.pe/
+event: Quechua Editaton 2021 - I
+event_url: http://clubesdecienciaperu.org/project/cdec54/
 
-location: National University of Altiplano
+location: Clubes de Ciencia Perú
 address:
-  street: Puno, 0051
-  city: Puno
-  region: Puno
-  postcode: ''
+  street: ''
+  city: ''
+  region: ''
+  postcode: '0051'
   country: Peru
 
-summary: "Towards an Ecology of Knowledge - Yachana 2021"
-abstract: "Nowadays knowledge is an important asset in every company and it is continuously collected and maintained to serve various purposes. During this presentation we will see how knowledge is created, transformed, and ends up being used by Google, Alexa, and Siri. This presentation also show the importance of an ecology of knowledge, how this knowledge affects our identity and the way we live."
+summary: "Quechua Wikipidiya Editaton - I"
+abstract: "Hacia la Publicación Digital en Idioma Quechua -  Towards Publishing in Quechua Language - Introducción a la publicación digital en Quechua"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-06T16:00:00Z"
-date_end: "2021-09-06T18:00:00Z"
+date: "2021-10-11T16:00:00Z"
+date_end: "2021-10-11T20:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-09-06T10:00:00Z"
+publishDate: "2021-10-11T10:00:00Z"
 
 authors: ["admin"]
-tags: ["Talks", "Research", "Demo", "Knowledge"]
+tags: ["Talks", "Research", "Demo", "Knowledge", "Editathon"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -41,8 +41,8 @@ links:
   url: https://twitter.com/ElwinHuaman
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.slideshare.net/elwinlhq/towards-an-ecology-of-knowledge"
-url_video: ""
+url_slides: "https://www.slideshare.net/elwinlhq/hacia-la-publicacin-digital-en-idioma-quechua-towards-publishing-in-quechua-language"
+url_video: "https://youtu.be/-bMzZCJlmlg"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,7 +59,3 @@ slides: ""
 projects:
 - QUIPU
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
