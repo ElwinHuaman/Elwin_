@@ -13,6 +13,7 @@ sections:
   - block: resume-languages
     content:
       title: Languages
+      text: 'The language that I have learned over the years'
       username: admin
       description: 'The languages of america'
 ---
