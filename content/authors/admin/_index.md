@@ -218,30 +218,34 @@ skills:
       - name: Software
         description: 'Jira, JupyterLab, Wikidata, WordPress'
         percent: 100
-        icon: computer
+        icon: gear-code
   - name: Soft skills
     items:
-      - name: Personal
-        description: 'Creative thinking, flexibility, initiative, leadership'
-        percent: 80
+      - name: Communication
+        description: 'Presentation skills, active listening, facilitation, time management'
+        percent: 100
         icon: code-bracket
-      - name: Interpersonal
-        description: 'Active learning, digital literacy, facilitation, mentorship, public speaking'
+      - name: Teamwork
+        description: 'Collaboration, mediation, brainstorming, management, goal-setting'
         percent: 100
         icon: chart-bar
-      - name: Misc.
-        description: 'Academic research, teaching, training, consultation'
-        percent: 40
+      - name: Leadership
+        description: 'Initiative, delegation, mentorship, motivation'
+        percent: 100
+        icon: chart-bar
+      - name: Problem-solving
+        description: 'Creative thinking, strategic thinking, consultation'
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Outdoors
+      - name: Outdoor
         description: 'Basketball, Beach volleyball, Climbing, Hiking, Mountain biking, Travel'
         percent: 60
         icon: person-simple-walk
-      - name: Indoors
+      - name: Indoor
         description: 'Board games, Chess, Cooking, Dance, Swimming, Volleyball'
         percent: 100
         icon: cat
@@ -259,9 +263,9 @@ languages:
   - name: English
     percent: 90
   - name: Italian
-    percent: 60
+    percent: 70
   - name: German
-    percent: 60
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
