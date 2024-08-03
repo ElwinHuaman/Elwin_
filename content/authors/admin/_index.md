@@ -65,7 +65,7 @@ education:
     summary: |
       Thesis on _Building Knowledge Graphs for Under-resourced Languages_. I research the approaches for building knowledge graphs for under-resourced languages, that involves a holistic process of resource collection, creation, storing, curation, and deployment.
     button:
-      text: 'Read: QICHWABASE'
+      text: 'Related work: QICHWABASE'
       url: 'https://arxiv.org/pdf/2305.06173'
   - area: PhD in Computer Science (candidate)
     institution: Innsbruck University, Austria
@@ -74,7 +74,7 @@ education:
     summary: |
       Thesis on _Knowledge Graph Quality Assessment_. I researched the representation, curation, and assessment of knowledge graphs, e.g. data modelling, ontologies, knowledge representation, and knowledge curation.
     button:
-      text: 'Read: Steps to Knowledge Graphs Quality Assessment'
+      text: 'Related work: Steps to Knowledge Graphs Quality Assessment'
       url: 'https://arxiv.org/pdf/2208.07779'
   - area: MSc in Web Engineering
     institution: University of Oviedo, Spain
