@@ -1,7 +1,7 @@
 ---
 title: Learn Quechua
 summary: Quechua language is still spoken by 7 million people across the world. This is your chance to learn the Quechua language.
-date: 2024-10-30
+date: 2024-08-01
 type: docs
 math: false
 tags:
