@@ -5,7 +5,8 @@ date: 2024-07-01
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Knowledge Graphs
+  - Under-Resourced Languages
 image:
   caption: 'Learn easily about knowledge graphs'
 ---
