@@ -46,9 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2410-4977
 ---
-
-## Contact Information 🪧
-
+## Contact Me 🪧
 - 📧 Email me to: _elwin_ dot _huaman_ at _hotmail_ dot _com_
 - 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
 - 💬 [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
