@@ -49,4 +49,9 @@ profiles:
 
 ## Contact Information 👋
 
-Elwin Huaman is a **Researcher**, **Project Manager**, and **Under-resourced Language Activist**. He has experience creating [Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-030-37439-6) and applying [Semantic Web]() technologies in academia and industry. He has co-authored the book: [Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6), and leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
+- Email me to: _elwin_ dot _huaman_ at _hotmail_ dot _com_
+- [Book an appointment](https://calendly.com/elwinhuaman/meeting)
+- [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
+- Request an speaking engagement
+- [More about Elwin](https://www.google.com/search?kgmid=/g/11fj545kct)
+
