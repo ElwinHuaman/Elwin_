@@ -17,13 +17,13 @@ marketing:
     description: 'Elwin Huaman is a peruvian researcher, project manager, and under-resourced language activist.'
     twitter: 'ElwinHuaman'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-V93H6PY1TW'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'G-V93H6PY1TW'
     baidu: ''
 
 # Site header
@@ -50,7 +50,7 @@ footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
 
 # Site features
 features:
