@@ -16,27 +16,27 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested on knowledge graphs, semantic web technologies, quechua language, and their applications.
 
-interests:
-- Knowledge Graphs
-- Knowledge Curation
-- Knowledge Validation
-- Quechua language
-- Semantic Web
+# interests:
+# - Knowledge Graphs
+# - Knowledge Curation
+# - Knowledge Validation
+# - Quechua language
+# - Semantic Web
 
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: Innsbruck University, Austria
-    year: 2019 (ongoing)
-  - course: Msc in Web Engineering
-    institution: Oviedo University, Spain
-    year: 2017
-  - course: Msc in Digital Information Systems
-    institution: Salamanca University, Spain
-    year: 2014
-  - course: BSc in Systems Engineering 
-    institution: National University of Altiplano, Peru
-    year: 2012
+# education:
+#   courses:
+#   - course: PhD in Computer Science
+#     institution: Innsbruck University, Austria
+#     year: 2019 (ongoing)
+#   - course: Msc in Web Engineering
+#     institution: Oviedo University, Spain
+#     year: 2017
+#   - course: Msc in Digital Information Systems
+#     institution: Salamanca University, Spain
+#     year: 2014
+#   - course: BSc in Systems Engineering 
+#     institution: National University of Altiplano, Peru
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

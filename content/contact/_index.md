@@ -9,26 +9,28 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: cta-card
+  - block: resume-biography-3
     content:
-      title: 👉 Contact information!
-      text: |-
-        I will be happy to help you, just text me:
-
-        - Email <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Email</a>        
-        - Twitter Me
-        - Telegram Me
-        - Book an appointment
-        - Request a speaking engagement 
-
-        To some up to date information about me, just click here: button!
-
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: elwin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Download CV
+        url: cv
+        # text: Download CV
+        # url: uploads/resume.pdf
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          # filename: stacked-peaks.svg
+          filename: ElwinHuaman-Alpacas-2024.jpg
+          filters:
+            brightness: 0.7
+          size: cover
+          position: center
+          parallax: false  
 ---
