@@ -47,16 +47,10 @@ profiles:
     url: https://orcid.org/0000-0002-2410-4977
 ---
 
-## Contact Information 👋
+## Contact Information 🪧
 
-- Email me to: _elwin_ dot _huaman_ at _hotmail_ dot _com_
-- [Book an appointment](https://calendly.com/elwinhuaman/meeting)
-- [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
-- Request an speaking engagement
-- [More about Elwin](https://www.google.com/search?kgmid=/g/11fj545kct)
-
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+- 📧 Email me to: _elwin_ dot _huaman_ at _hotmail_ dot _com_
+- 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
+- 💬 [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
+- 👨‍🏫 Request an speaking engagement
+- 🌐 [More about Elwin](https://www.google.com/search?kgmid=/g/11fj545kct)
