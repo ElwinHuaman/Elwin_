@@ -1,9 +1,7 @@
 ---
-title: Supporting minority languages and Wikimedia
-community (Round table).
+title: Supporting minority languages and Wikimedia community (Round table).
 
-subtitle: Supporting minority languages and Wikimedia
-community (Round table).
+subtitle: Supporting minority languages and Wikimedia community (Round table).
 
 # Summary for listings and search engines
 summary: We gather minority languages contributors, powerful facilitators and interested publics to exchanges experiences to understand minority languages.
