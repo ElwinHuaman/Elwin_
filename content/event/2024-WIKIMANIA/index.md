@@ -28,7 +28,7 @@ authors: ["admin"]
 tags: ["Talks", "Research", "Wikimedia", "Knowledge"]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: "Photo by [@ElwinHuaman](https://twitter.com/ElwinHuaman)"
