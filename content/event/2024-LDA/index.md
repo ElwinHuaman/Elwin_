@@ -7,10 +7,10 @@ event_url: 'https://langdoc.org/'
 location: Berlin-Brandenburg Academy of Sciences and Humanities
 address:
   street: ''
-  city: Berlin
+  city: 'Berlin'
   region: ''
   postcode: ''
-  country: Germany
+  country: 'Germany'
 
 summary: "What is the importance of building knowledge graphs for under-resourced langauges and why it should be done now."
 abstract: "Why Knowledge Graphs and Under-Resourced Languages? How
